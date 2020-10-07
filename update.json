@@ -1,1 +1,8 @@
-{"test" : "hello"}
+{
+    "latestVersion": "1.21",
+    "latestVersionCode": 22,
+    "url": "https://skeyetrax.trescaconcrete.com:44100/app-release/skEYEtrax.apk",
+    "releaseNotes": [
+    "Latest update on 04/14/2020"
+    ]
+}
