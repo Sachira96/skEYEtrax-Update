@@ -1,10 +1,9 @@
 {
-    "latestVersion": "2.6",
-    "latestVersionCode": 32,
-    "url": "https://raw.githubusercontent.com/Sachira96/skEYEtrax-Update/main/skEYEtrax.apk",
+    "latestVersion": "4.0",
+    "latestVersionCode": 40,
+    "url": "https://github.com/Sachira96/skEYEtrax-Update/raw/master/skEYEtrax.apk",
     "releaseNotes": [
-    "Latest update on 10/29/2020 at 12:55 am",
-    "System Brightness Control",
-    "Always Wake Up Update"
+    "Latest update on 21/01/2021 at 07:55 am",
+    "Bigfoot Update"
     ]
 }
